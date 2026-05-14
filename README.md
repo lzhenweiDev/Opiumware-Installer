@@ -1,6 +1,6 @@
 Here you can install Opiumware on the Mac
 
-**Run this command to install it**
+<h3>Run this command to install it</h3>
 ```bash
 bash <(curl -fsSL https://raw.githubusercontent.com/lzhenweiDev/Opiumware-Installer/refs/heads/main/install_auto.sh)
 ```
