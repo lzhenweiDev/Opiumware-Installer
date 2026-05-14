@@ -5,9 +5,9 @@ Here you can install Opiumware on the Mac
 bash <(curl -fsSL https://raw.githubusercontent.com/lzhenweiDev/Opiumware-Installer/refs/heads/main/install_auto.sh)
 ```
 
+
+
 <h3> Or install the Software manually selecting which CPU architecture </h3>
-
-
 
 **ARM**
 ```bash
