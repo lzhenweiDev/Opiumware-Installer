@@ -1,5 +1,11 @@
-Here you can install Opiumware
+Here you can install Opiumware on the Mac
 
+**Run this command to install it**
+```bash
+bash <(curl -fsSL https://raw.githubusercontent.com/lzhenweiDev/Opiumware-Installer/refs/heads/main/install_auto.sh)
+```
+
+Or install the Software manually selecting which CPU architecture
 **ARM**
 ```bash
 bash <(curl -fsSL https://raw.githubusercontent.com/lzhenweiDev/Opiumware-Installer/refs/heads/main/install_arm64.sh)
