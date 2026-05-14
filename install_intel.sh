@@ -130,7 +130,7 @@ main() {
     section "Downloading Roblox"
 
     run_step "Downloading Roblox" bash -c "
-        curl -# -L 'https://setup.rbxcdn.com/mac/version-73d88b9483b340ae-RobloxPlayer.zip' -o '$TEMP/RobloxPlayer.zip' &&
+        curl -# -L 'https://setup.rbxcdn.com/mac/$version-RobloxPlayer.zip' -o '$TEMP/RobloxPlayer.zip' &&
         unzip -oq '$TEMP/RobloxPlayer.zip' -d '$TEMP' &&
         mv '$TEMP/RobloxPlayer.app' '$APP_DIR/Roblox.app' &&
         xattr -cr '$APP_DIR/Roblox.app' &&
