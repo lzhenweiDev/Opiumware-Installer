@@ -6,6 +6,7 @@ bash <(curl -fsSL https://raw.githubusercontent.com/lzhenweiDev/Opiumware-Instal
 ```
 
 Or install the Software manually selecting which CPU architecture
+
 **ARM**
 ```bash
 bash <(curl -fsSL https://raw.githubusercontent.com/lzhenweiDev/Opiumware-Installer/refs/heads/main/install_arm64.sh)
